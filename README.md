@@ -5,4 +5,6 @@
 * in a last step, a summarizing tidy dataset is created with mean values for all original variables containing describing means 
 * or standardeviations, and these data are summarized per activity (n=5) and per subject (n=30) resulting in a tidy dataset 
 * with 180 cases and 81 variables (79 means of means and standarddeviations, and two grouping variables activity and subject)
+
 ## the codebook describes the different variables
+* qdjflhqsf
